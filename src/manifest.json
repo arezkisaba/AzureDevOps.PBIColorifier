@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "PBI Colorizer",
+    "name": "PBI Colorizer for Azure DevOps",
     "version": "1.0",
-    "description": "Adds custom colorization to PBI.",
+    "description": "Adds custom colorization Azure DevOps PBI.",
     "permissions": [
         "scripting"
     ],

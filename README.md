@@ -44,6 +44,10 @@ src/
 - Chrome (Manifest V3)
 - Other Chromium-based browsers
 
+## Privacy
+
+This extension prioritizes user privacy and operates with minimal data interaction. For detailed information about data handling and privacy practices, please see our [Privacy Policy](PRIVACY_POLICY.md).
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests. Pull requests are welcome for improvements and additional color customizations.
