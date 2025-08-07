@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "PBI Colorizer",
+    "version": "1.0",
+    "description": "Adds custom colorization to PBI.",
+    "permissions": [
+        "scripting"
+    ],
+    "host_permissions": [
+        "https://*.visualstudio.com/*",
+        "https://dev.azure.com/*",
+        "https://azure-devops.intranet.prevoir/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
